@@ -1,0 +1,13 @@
+body {
+	background-color:grey;
+}
+div.holder {
+	background-color:orange;
+}
+div.info {
+	background-color:red;
+	float:none;
+	clear:both;
+	font:Times New Roman;
+	text-align:center;
+}
