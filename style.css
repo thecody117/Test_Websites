@@ -11,3 +11,9 @@ div.info {
 	font:Times New Roman;
 	text-align:center;
 }
+div.content {
+	background-color:lightblue;
+	float:none;
+	clear:both;
+	text-align:center;
+}
