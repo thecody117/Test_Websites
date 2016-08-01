@@ -33,3 +33,14 @@ p.intro {
 	clear:both;
 	
 }
+p.body {
+	float:left;
+	clear:left;
+	text-align:left;
+	font-family:Times New Roman;
+}
+div.imagecenter {
+	text-align:center;
+	float:none;
+	clear:none;
+}
