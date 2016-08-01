@@ -33,3 +33,9 @@ p.intro {
 	clear:both;
 	
 }
+p.body {
+	float:left;
+	clear:none;
+	text-align:left;
+	font-family:Times New Roman;
+}
