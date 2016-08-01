@@ -17,3 +17,19 @@ div.content {
 	clear:both;
 	text-align:center;
 }
+div.nav {
+	background-color:grey;
+	clear:none;
+	float:none;
+	text-align:center;
+}
+a.link {
+	border-style: solid;
+	color:blue;
+	background-color:white;
+}
+p.intro {
+	float:both;
+	clear:both;
+	
+}
