@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Names>
+	<Real>
+		<name>Real</name>
+		<weapon>Dual Swords</weapon>
+		<future_upgrade>Dual Blades of Wesmourne</future_upgrade>
+	</Real>
+	<Je_Dey>
+		<name>Je Dey</name>
+		<weapon>Darkness Breaker</weapon>
+		<future_upgrade>Undecided</future_upgrade>
+	</Je_Dey>
+	<Wes>
+		<name>Prince Niggles the Third</name>
+		<weapon>Holy Hammer of Shamoo</weapon>
+		<future_upgrade>Pulsating Holy Hammer of Shamoo</future_upgrade>
+	</Wes>
+</Names>

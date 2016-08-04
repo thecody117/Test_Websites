@@ -5,12 +5,12 @@
 <title>Real Content RPG Homepage</title>
 </head>
 <body>
-<!-- this website is for testing purposes-->
+<!-- the entire website-->
 <div class="holder">
 <div class="nav">
-<p><a class="link" href="index.html">Home</a><a class="link" href="gamelink.html">Game Link</a><a class="link" href="info.html">Info</a>
+<p><a class="link" href="index.php">Home</a><a class="link" href="gamelink.php">Game Link</a><a class="link" href="info.php">Info</a>
 <div class="banner">
-<img height="250" width="750" src="images/Banner.png"></img>
+<!-- Banner--> <img height="250" width="750" src="images/Banner.png"></img>
 <div class="info">
 Hello, Welcome to Real Content RPG's homepage!
 </div>

@@ -8,7 +8,7 @@
 <!-- this website is for testing purposes-->
 <div class="holder">
 <div class="nav">
-<p><a class="link" href="index.html">Home</a><a class="link" href="gamelink.html">Game Link</a><a class="link" href="info.html">Info</a>
+<p><a class="link" href="index.php">Home</a><a class="link" href="gamelink.php">Game Link</a><a class="link" href="info.php">Info</a>
 <div class="info">
 <!-- any link to the games-->
 Game Links
